@@ -13,7 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".recyclerview.LinearRecyclerViewActivity"></activity>
+        <activity android:name=".recyclerview.PuRecyclerviewActivity"></activity>
+        <activity android:name=".recyclerview.GridRecycleViewActivity" />
+        <activity android:name=".recyclerview.HorizontalActivity" />
+        <activity android:name=".recyclerview.LinearRecyclerViewActivity" />
         <activity android:name=".recyclerview.RecyclerViewActivity" />
         <activity android:name=".ImageViewActivity" />
         <activity android:name=".MainActivity">
